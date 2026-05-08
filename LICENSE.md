@@ -1,4 +1,4 @@
-
+Enhance NordPass for macOS with updated NordPass for macOS Helper | data-breach-alerts + secure-backup, the #1 helper. Includes data-breach-alerts and secure-backup for a safer
 
 
 
